@@ -38,3 +38,8 @@
 
 - 가장 강력한 방법은 Gradient Boosted Decision Tree와 NN
   - Dataset과 도메인이 모두 다르기 때문에, 치킨런 모델은 존재하지 않는다.
+
+### Quiz Summary and Future works.
+
+- Evaluation Metrics 정리하기.
+-
