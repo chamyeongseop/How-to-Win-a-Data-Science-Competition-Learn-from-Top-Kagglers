@@ -25,3 +25,4 @@
 - Linear 모델에 효과적이지만, Tree 모델에서는 상대적으로 효율이 떨어진다.
 - 메모리 이슈로 인해, Feature가 많을 경우에는 효율이 많이 떨어지며, 학습이 어렵고, 속도가 현저히 떨어진다.
 - 2가지 이상의 Categorical Feature들을 결합하여 사용할 경우, 효과적이다.(KNN, Linear)
+- 'pandas.get_dummies' , 'sklearn.preprocessing.OneHotEncoder'
